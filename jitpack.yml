@@ -1,3 +1,3 @@
 install: 
-FILE="-Dfile=mylibrary-release.aar" 
+FILE="-Dfile=alveoairsdk-1.0.0.aar" 
 mvn install:install-file $FILE -DgroupId=com.sdk -DartifactId=alveoair -Dversion=2.0.0 -Dpackaging=aar 
