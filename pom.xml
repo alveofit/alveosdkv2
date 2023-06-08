@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.sdk</groupId>
+  <artifactId>alveoairsdk</artifactId>
+  <version>1.0.0</version>
+  <packaging>aar</packaging>
+  <dependencies>
+  	<dependency>
+    <groupId>androidx.appcompat</groupId>
+    <artifactId>appcompat</artifactId>
+    <version>1.6.1</version>
+    <scope>runtime</scope>
+</dependency>
+<!-- https://mvnrepository.com/artifact/com.google.android.material/material -->
+<dependency>
+    <groupId>com.google.android.material</groupId>
+    <artifactId>material</artifactId>
+    <version>1.9.0</version>
+    <scope>runtime</scope>
+</dependency>
+<dependency>
+    <groupId>androidx.constraintlayout</groupId>
+    <artifactId>constraintlayout</artifactId>
+    <version>2.1.4</version>
+    <scope>runtime</scope>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/androidx.swiperefreshlayout/swiperefreshlayout -->
+<dependency>
+    <groupId>androidx.swiperefreshlayout</groupId>
+    <artifactId>swiperefreshlayout</artifactId>
+    <version>1.1.0</version>
+    <scope>runtime</scope>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/androidx.security/security-crypto -->
+<dependency>
+    <groupId>androidx.security</groupId>
+    <artifactId>security-crypto</artifactId>
+    <version>1.0.0</version>
+    <scope>runtime</scope>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit -->
+<dependency>
+    <groupId>com.squareup.retrofit2</groupId>
+    <artifactId>retrofit</artifactId>
+    <version>2.9.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-gson -->
+<dependency>
+    <groupId>com.squareup.retrofit2</groupId>
+    <artifactId>converter-gson</artifactId>
+    <version>2.9.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/com.squareup.okhttp3/logging-interceptor -->
+<dependency>
+    <groupId>com.squareup.okhttp3</groupId>
+    <artifactId>logging-interceptor</artifactId>
+    <version>4.9.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-scalars -->
+<dependency>
+    <groupId>com.squareup.retrofit2</groupId>
+    <artifactId>converter-scalars</artifactId>
+    <version>2.5.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/no.nordicsemi.android/dfu -->
+<dependency>
+    <groupId>no.nordicsemi.android</groupId>
+    <artifactId>dfu</artifactId>
+    <version>2.0.2</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/no.nordicsemi.android/dfu -->
+<dependency>
+    <groupId>no.nordicsemi.android</groupId>
+    <artifactId>log</artifactId>
+    <version>2.2.0</version>
+</dependency>
+
+
+
+<dependency>
+    <groupId>no.nordicsemi.android.support.v18</groupId>
+    <artifactId>scanner</artifactId>
+    <version>1.6.0</version>
+</dependency>
+
+
+<dependency>
+    <groupId>no.nordicsemi.android</groupId>
+    <artifactId>ble-common</artifactId>
+    <version>2.5.1</version>
+</dependency>
+
+<dependency>
+    <groupId>com.google.android.gms</groupId>
+    <artifactId>play-services-wearable</artifactId>
+    <version>10.2.0</version>
+</dependency>
+
+<dependency>
+    <groupId>com.google.android.play</groupId>
+    <artifactId>core</artifactId>
+    <version>1.10.2</version>
+</dependency>
+
+<dependency>
+    <groupId>com.google.android.gms</groupId>
+    <artifactId>play-services-location</artifactId>
+    <version>19.0.1</version>
+</dependency>
+
+<dependency>
+    <groupId>com.github.chuckerteam.chucker</groupId>
+    <artifactId>library</artifactId>
+    <version>3.5.2</version>
+</dependency>
+
+<dependency>
+    <groupId>com.github.chuckerteam.chucker</groupId>
+    <artifactId>library-no-op</artifactId>
+    <version>3.5.2</version>
+</dependency>
+
+<dependency>
+    <groupId>com.amplitude</groupId>
+    <artifactId>android-sdk</artifactId>
+    <version>2.34.0</version>
+</dependency>
+
+
+<dependency>
+    <groupId>om.github.bumptech.glide</groupId>
+    <artifactId>glide</artifactId>
+    <version>4.12.0</version>
+</dependency>
+
+<dependency>
+    <groupId>android.arch.persistence.room</groupId>
+    <artifactId>runtime</artifactId>
+    <version>1.1.1</version>
+</dependency>
+
+<dependency>
+    <groupId>android.arch.persistence.room</groupId>
+    <artifactId>compiler</artifactId>
+    <version>1.1.1</version>
+</dependency>
+
+<dependency>
+    <groupId>com.github.PhilJay</groupId>
+    <artifactId>MPAndroidChart</artifactId>
+    <version>v3.1.0</version>
+</dependency>
+
+<dependency>
+    <groupId>com.github.bumptech.glide</groupId>
+    <artifactId>glide</artifactId>
+    <version>4.12.0</version>
+</dependency>
+
+
+<dependency>
+    <groupId>com.github.delight-im</groupId>
+    <artifactId>Android-AdvancedWebView</artifactId>
+    <version>v3.2.1</version>
+</dependency>
+
+
+  </dependencies>
+</project>
