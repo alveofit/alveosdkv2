@@ -4,6 +4,10 @@
   <groupId>com.sdk</groupId>
   <artifactId>alveoairsdk</artifactId>
   <version>1.0.0</version>
+  <repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
   <dependencies>
   	<dependency>
     <groupId>androidx.appcompat</groupId>
